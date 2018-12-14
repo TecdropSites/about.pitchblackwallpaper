@@ -1,0 +1,16 @@
+url: https://about.pitchblackwallpaper.tecdrop.com
+
+title: About Pitch Black Wallpaper
+
+remote_theme: AurelitecSites/micrabout
+repository: TecdropSites/about.pitchblackwallpaper
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      show_title: true
+      sized_quote: false
