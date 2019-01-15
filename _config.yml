@@ -5,6 +5,8 @@ title: About Pitch Black Wallpaper
 remote_theme: AurelitecSites/micrabout
 repository: TecdropSites/about.pitchblackwallpaper
 
+permalink: pretty
+
 defaults:
   -
     scope:
