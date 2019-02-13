@@ -14,5 +14,5 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      show_title: true
-      sized_quote: false
+      show_title: false
+      sized_quote: true
